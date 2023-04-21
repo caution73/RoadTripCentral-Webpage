@@ -126,7 +126,7 @@ export default function NPSinterface() {
                 <div id="NPSInfoField">
                     <div id="NPSLowerLeft" className="NPSDisplay">
                         <h4 id="parksLabel">NPS Locations</h4>
-                        {USstate?.data?.map((park, idx) => {
+                        {USstate?.data?.map((park, idx) => {  // If a US state has been selected, display all NPS locations within that US state.
                             return(
                                 <div className="park" key={idx}>
                                     <h4 className="parkName">{park.fullName}</h4>

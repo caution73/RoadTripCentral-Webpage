@@ -25,7 +25,7 @@ export default function VideoCarousel({videos}){
             <section className="vidCarouselContainer">
                 <div className="imageArrow" id="vidArrowLeft" onClick={prevSlide}>&lt;</div>
                 <div className="imageArrow" id="vidArrowRight" onClick={nextSlide}>&gt;</div>
-                {videos?.map((video, idx) => {
+                {videos?.map((video, idx) => { // For each video in the list, create the video element, then display the one that should be displayed.
                     return(
                         <div className={idx === current ? 'imgActive' : 'imgInactive'} key={idx}>
                             {idx === current && (<iframe {...video.videoElement} />)}

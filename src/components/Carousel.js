@@ -6,11 +6,11 @@ export default function ImageCarousel({images}){
     
     let length = images && images.length;
 
-    const nextSlide = () => {
+    const nextSlide = () => {  // Switch the displayed image to the next image in the array.
         setCurrentImage(currentImage === length-1 ? 0 : currentImage + 1);
     }
 
-    const prevSlide = () => {
+    const prevSlide = () => {  // Switch the displayed image to the previous image in the array.
         setCurrentImage(currentImage === 0 ? length-1 : currentImage - 1)
     }
 
@@ -24,7 +24,7 @@ export default function ImageCarousel({images}){
             <section className="imgCarouselContainer">
                 <div className="imageArrow" id="imageArrowLeft" onClick={prevSlide}>&lt;</div>
                 <div className="imageArrow" id="imageArrowRight" onClick={nextSlide}>&gt;</div>
-                {images?.map((image, idx) => {
+                {images?.map((image, idx) => {  // For each image, create the image and check to see if it should be displayed as current Image.
                     return(
                         <div className={idx === currentImage ? 'imgActive' : 'imgInactive'} key={idx}>
                             {idx === currentImage && (<img className="carouselImg" src={image.url} alt="Super awesome thing" />)}
