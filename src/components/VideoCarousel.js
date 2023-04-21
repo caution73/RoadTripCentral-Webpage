@@ -14,12 +14,13 @@ export default function VideoCarousel({videos}){
         setCurrent(current === 0 ? length-1 : current - 1)
     }
 
-    console.log("videos", videos)
-    console.log(typeof videos)
-    console.log(videos && videos.length)
-    console.log(current)
-    console.log(length)
-    console.log("videoEl", videos[0].videoElement)
+    //testing
+    //console.log("videos", videos)
+    //console.log(typeof videos)
+    //console.log(videos && videos.length)
+    //console.log(current)
+    //console.log(length)
+    //console.log("videoEl", videos[0].videoElement)
     if(videos){
         return(
             <section className="vidCarouselContainer">
