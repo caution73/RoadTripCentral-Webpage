@@ -4,7 +4,7 @@ RoadTripCentral (Website)<br>
 This is a webpage that highlights video content featuring exciting automobiles and fantastic scenery. Sit back and enjoy the creative/entertaining content or use the built-in National Park Service interface to learn more about what the wild U.S. has to offer.
 
 Link<br>
-Play this game on the Git page! https://caution73.github.io/mod1_story_project/
+Play this game on the Git page! https://caution73.github.io/RoadTripCentral-Webpage/
 
 Motivation<br>
 I have had a slightly unhealthy obsession with cars since a young age, and over the years that lead me to creating automotive video content that I've shared with the world via Instagram, Facebook, and YouTube. I have always wanted to make a website for this venture (dubbed RoadTripCentral), and I've finally taken the time to make it happen!
@@ -18,7 +18,7 @@ Features<br>
 The most significant features that I would like to point out in the website are the "carousels" that I used to display collections of videos and images (I just recently learned how to create them), as well as the integrated NPS information on the "Plan Your Trip" page.
 
 Installation<br>
-Visit the GitHub repository at https://github.com/caution73/mod1_story_project, where you can fork the code and/or download the code to your own computer.
+Visit the GitHub repository at https://github.com/caution73/RoadTripCentral-Webpage, where you can fork the code and/or download the code to your own computer.
 
 Contribute<br>
 If you would like to contribute to the development of this project, I would be thrilled to improve the styling throughout, as well as further develop the NPS page by creating additional search fields for users to obtain other useful information from the API.
