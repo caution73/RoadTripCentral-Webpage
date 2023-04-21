@@ -4,7 +4,7 @@ RoadTripCentral (Website)<br>
 This is a webpage that highlights video content featuring exciting automobiles and fantastic scenery. Sit back and enjoy the creative/entertaining content or use the built-in National Park Service interface to learn more about what the wild U.S. has to offer.
 
 Link<br>
-Play this game on the Git page! https://caution73.github.io/RoadTripCentral-Webpage/
+Check out the website here! https://caution73-roadtripcentral-site.netlify.app/
 
 Motivation<br>
 I have had a slightly unhealthy obsession with cars since a young age, and over the years that lead me to creating automotive video content that I've shared with the world via Instagram, Facebook, and YouTube. I have always wanted to make a website for this venture (dubbed RoadTripCentral), and I've finally taken the time to make it happen!

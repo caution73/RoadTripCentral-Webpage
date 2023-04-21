@@ -97,9 +97,9 @@ main {
 footer {
   background-color: white;
   margin: 1vh;
-  justify-self: right;
   z-index: 2;
   width: 100vw;
+  left: -3vw;
 }
 
 .navLinkContainer {
