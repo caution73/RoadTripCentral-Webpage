@@ -41,4 +41,4 @@ Include login information and a "favorite" button for either videos or NPS locat
 
 
 Credits<br>
-I'd like to thank all those that have helped me debug and test the website (special shout out to Arwa, Anthony, and Annson), as well as those that have taken the time to view the website. I hope that my content has provided you with a memorable experience...and if it hasn't yet, come back to try it later. It will only be improving!
+I'd like to thank all those that have helped me debug and test the website (special shout out to Arwa, Anthony, and Annson), as well as those that have taken the time to view the website. I hope that my content has provided you with a memorable experience...and if it hasn't yet, come back to try it later. It will only be improving!# RoadTripCentral-site
