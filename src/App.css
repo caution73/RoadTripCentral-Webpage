@@ -293,6 +293,8 @@ footer > * {
 .name {
   width: 40%;
   display: flex;
+  align-items: center;
+  justify-content: center;
 
 }
 
